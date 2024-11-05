@@ -1,0 +1,12 @@
+{
+   "name": "create-resource-cli",
+   "version": "Beta",
+   "description": "CLI tool to generate resource templates in a Node.js project",
+   "main": "src/index.js",
+   "bin": {
+      "create-resource": "./src/index.js"
+   },
+   "dependencies": {
+      "yargs": "^17.5.1"
+   }
+}
